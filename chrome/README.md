@@ -18,10 +18,19 @@
 
 # Chromoji （happy）
 
+## chrome地址
+
 1. https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki/related?hl=en-US
-2. 手机的小图标，这个图标是有Unicode编码的
-3. Unicode编码地址：https://apps.timwhitlock.info/emoji/tables/unicode#block-2-dingbats，但这里面U+1F601 是16进制，通过进制转换1F601转换为128513
-4. html中直接使用&#128513;就可以产生相应的图标
+
+## 介绍
+
+1. 手机的小图标，这个图标是有Unicode编码的
+2. Unicode编码地址：https://apps.timwhitlock.info/emoji/tables/unicode#block-2-dingbats，但这里面U+1F601 是16进制，通过进制转换1F601转换为128513
+3. html中直接使用&#128513;就可以产生相应的图标
+
+## 注意
+
+1. 但这个插件插入到某些地方，如github，并不一定是
 
 # sourcegraph
 
