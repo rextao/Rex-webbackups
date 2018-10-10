@@ -16,7 +16,12 @@
 1. https://chrome.google.com/webstore/detail/web-clipper-nimbus/kiokdhlcmjagacmcgoikapbjmmhfchbi?utm_source=chrome-ntp-icon
 2. 可以选择需要的区域，然后保存到nimbusweb，但无代码背景
 
+# Chromoji （happy）
 
+1. https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki/related?hl=en-US
+2. 手机的小图标，这个图标是有Unicode编码的
+3. Unicode编码地址：https://apps.timwhitlock.info/emoji/tables/unicode#block-2-dingbats，但这里面U+1F601 是16进制，通过进制转换1F601转换为128513
+4. html中直接使用&#128513;就可以产生相应的图标
 
 # sourcegraph
 
@@ -36,4 +41,10 @@
 ### 用于浏览器的分辨率测试
 
 1. 但只能看比当前显示器分辨率低的页面效果
+
+## Puppeteer Recorder(未使用)
+
+### 记录鼠标操作生成脚本
+
+1. Puppeteer是js爬虫，https://github.com/GoogleChrome/puppeteer
 
