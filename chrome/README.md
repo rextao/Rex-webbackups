@@ -18,6 +18,8 @@
 
 # Chromoji （happy）
 
+## 苹果笑脸图标
+
 ## chrome地址
 
 1. https://chrome.google.com/webstore/detail/chromoji-emoji-for-google/cahedbegdkagmcjfolhdlechbkeaieki/related?hl=en-US
@@ -57,3 +59,9 @@
 
 1. Puppeteer是js爬虫，https://github.com/GoogleChrome/puppeteer
 
+# Video Downloader for Chrome
+
+## 自动检测网页视频
+
+1. https://chrome.google.com/webstore/detail/video-downloader-for-chro/dcfofgiombegngbaofkeebiipcdgpnga?utm_source=chrome-ntp-icon
+2. 一款自动检测网页视频，并且用来下载的工具，支持 flv, mp4, avi, asf, mpeg 等格式，以及一些视频网站，支持优酷、腾讯视频，但不支持 B 站，也不支持 YouTube 下载 
