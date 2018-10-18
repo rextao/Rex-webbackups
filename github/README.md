@@ -18,3 +18,15 @@
 
 1. https://github.com/jaywcjlove/translater.js
 2. 简单静态页面的翻译解决方案。它没有依赖，压缩后只有(~4kb) 
+
+
+
+## 网站挂上github图标
+
+1. https://github.com/tholman/github-corners
+2. 直接提供github猫的svg与样式（其实主要是svg图）
+
+## 日程安排日历 
+
+1. https://github.com/nhnent/tui.calendar
+2. 功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的 
