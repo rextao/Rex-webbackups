@@ -30,3 +30,14 @@
 
 1. https://github.com/nhnent/tui.calendar
 2. 功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的 
+
+
+
+# 高星github
+
+## 30-seconds-of-code（very nice）
+
+1. https://github.com/30-seconds/30-seconds-of-code
+2. 29kstarts，20181019
+3. 一个非常实用的 JavaScript 代码片段集合，全部采用 ES6 编写，而且实用最简单的方法实现，尽量确保你可以在30秒或更短的时间内理解这些代码 
+

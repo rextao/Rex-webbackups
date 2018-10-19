@@ -1,3 +1,51 @@
+# 富文本编辑器
+
+## trix
+
+1. https://github.com/basecamp/trix
+2. 12kstars，20181019
+
+# 函数式编程
+
+## Ramda
+
+1. https://github.com/ramda/ramda
+2. 14kstars，20181019
+3. Ramda 强调更加纯粹的函数式风格。数据不变性和函数无副作用是其核心设计理念。这可以帮助你使用简洁、优雅的代码来完成工作。
+4. Ramda 函数本身都是自动柯里化的。这可以让你在只提供部分参数的情况下，轻松地在已有函数的基础上创建新函数。
+5. Ramda 函数参数的排列顺序更便于柯里化。
+
+# 工具函数
+
+## Licia
+
+1. https://github.com/liriliri/licia
+2. 822stars，20181019
+3. 开发中实践积累起来的实用JavaScript的0依赖的工具库 
+4. 目的：提供一系列在日常开发中使用率较高的JavaScript模块。 
+
+## voca
+
+### js字符串操作库
+
+1. https://github.com/panzerdp/voca
+2. 2.3kstars，20181019
+3. 可以加载整个库或单独函数
+
+## collect.js
+
+### array与object工具函数
+
+1. https://github.com/ecrmnn/collect.js/
+2. 4kstars，20181019
+
+## chancejs
+
+### 随机生成string，numbers等
+
+1. https://github.com/chancejs/chancejs
+2. 4kstars，20181019
+
 # 时间处理
 
 ## day.js
