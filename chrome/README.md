@@ -1,3 +1,10 @@
+# 科学上网VPN
+
+## setupVPN
+
+1. https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?utm_source=chrome-ntp-icon
+2. 免费，速度还可以
+
 # Homely(nice)  
 
 ## 将网页书签变成纵向排列 
