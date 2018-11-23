@@ -93,4 +93,12 @@
 2. https://github.com/zulko/eagle.js/
 3. 使用Vue.js构建的幻灯片框架 
 
-
+# node包管理工具
+## n
+1. https://github.com/tj/n
+1. 不支持windows
+1. 安装简单
+## nvm
+1. https://github.com/creationix/nvm
+1. windows
+1. 提供window解决办法
