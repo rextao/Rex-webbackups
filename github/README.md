@@ -32,7 +32,6 @@
 2. 功能全面的 JavaScript 日程安排日历。虽然项目依赖了 jQuery，但是对于真实项目来说这样做是可以的 
 
 
-
 # 高星github
 
 ## 30-seconds-of-code（very nice）
@@ -44,3 +43,12 @@
 # 常用前端库
 ## awesome-f2e-libs
 1. https://github.com/sorrycc/awesome-f2e-libs
+
+# 展现代码的方式
+## 打字机形式演示代码
+1. https://github.com/glorious-codes/glorious-demo
+1. 2k stars
+
+## 构建代码的不同样式的图片
+1. https://github.com/dawnlabs/carbon
+1. 16k

@@ -86,7 +86,7 @@
 
 
 
-# Vue组件
+# Vue组件与框架
 
 ## 幻灯片框架 
 
@@ -94,7 +94,14 @@
 2. https://github.com/zulko/eagle.js/
 3. 使用Vue.js构建的幻灯片框架 
 
-# React组件
+## Cube UI
+1. 移动端vue组件库
+1. https://github.com/didi/cube-ui
+1. 4k stars
+
+## U
+
+# React组件与框架
 ## 列表拖拽组件
 1. https://github.com/atlassian/react-beautiful-dnd
 2. 11kstars
