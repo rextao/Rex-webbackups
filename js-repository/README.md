@@ -69,7 +69,8 @@
 
 # 表格处理
 
-1. Handsontable，10kstars
+## Handsontable
+1. 10kstars
 2. https://github.com/handsontable/handsontable#screenshot
 3. 强大的开源 HTML5 表格处理工具，适用于中后台的很多业务场景 
 4. pro版本收费，支持vue，纯js等
@@ -93,4 +94,13 @@
 2. https://github.com/zulko/eagle.js/
 3. 使用Vue.js构建的幻灯片框架 
 
+# React组件
+## 列表拖拽组件
+1. https://github.com/atlassian/react-beautiful-dnd
+2. 11kstars
 
+
+# 效果库
+## 打字机效果
+1. https://github.com/tameemsafi/typewriterjs
+1. 原生js库实现打字机效果

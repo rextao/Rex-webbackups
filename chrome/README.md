@@ -18,13 +18,14 @@
 ### 极简主义风格的网络收藏夹
 1. https://chrome.google.com/webstore/detail/pinbox-%E7%BD%91%E7%BB%9C%E6%94%B6%E8%97%8F%E5%A4%B9/kmijeangnajdcaomdfjohhbmnbhnhjjd/related
 
-# 简悦 (nice)
+# 页面clipper
+## 简悦 (nice)
 
 1. https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll/related
 2. 可以直接获取一些站点的主要内容
 3. 问题：必须进入阅读模式，才能再进行剪辑（如需要的内容不是正文，则over了）
 
-# Web Clipper (Nimbus) （nice）
+## Web Clipper (Nimbus) （nice）
 
 1. https://chrome.google.com/webstore/detail/web-clipper-nimbus/kiokdhlcmjagacmcgoikapbjmmhfchbi?utm_source=chrome-ntp-icon
 2. 可以选择需要的区域，然后保存到nimbusweb，但无代码背景
@@ -72,13 +73,16 @@
 
 1. Puppeteer是js爬虫，https://github.com/GoogleChrome/puppeteer
 
-# Video Downloader for Chrome
-
-## 自动检测网页视频
-
-1. https://chrome.google.com/webstore/detail/video-downloader-for-chro/dcfofgiombegngbaofkeebiipcdgpnga?utm_source=chrome-ntp-icon
-2. 一款自动检测网页视频，并且用来下载的工具，支持 flv, mp4, avi, asf, mpeg 等格式，以及一些视频网站，支持优酷、腾讯视频，但不支持 B 站，也不支持 YouTube 下载 
 
 # 视频下载
 ## One-Click Video Downloader
 1. https://chrome.google.com/webstore/detail/one-click-video-downloade/bhepgcoaibmmehlmckhlmbdgcemhidcg/related?hl=en-US
+
+## Video Downloader for Chrome
+1. 自动检测网页视频
+1. https://chrome.google.com/webstore/detail/video-downloader-for-chro/dcfofgiombegngbaofkeebiipcdgpnga?utm_source=chrome-ntp-icon
+2. 一款自动检测网页视频，并且用来下载的工具，支持 flv, mp4, avi, asf, mpeg 等格式，以及一些视频网站，支持优酷、腾讯视频，但不支持 B 站，也不支持 YouTube 下载 
+
+# 图片下载
+## Fatkun Batch Download Image
+1. https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en-US
