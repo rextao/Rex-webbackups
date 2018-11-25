@@ -5,12 +5,18 @@
 1. https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp?utm_source=chrome-ntp-icon
 2. 免费，速度还可以
 
-# Homely(nice)  
+# 书签管理
+## Homely(nice)  
 
-## 将网页书签变成纵向排列 
+### 将网页书签变成纵向排列 
 
 1. https://github.com/OllieTerrance/Homely
 2. 我的存储地址：https://github.com/rextao/myHomely/blob/master/README.md
+1. 主要缺点：书签需要导入导出，没有服务器共享书签；
+
+## pinbox
+### 极简主义风格的网络收藏夹
+1. https://chrome.google.com/webstore/detail/pinbox-%E7%BD%91%E7%BB%9C%E6%94%B6%E8%97%8F%E5%A4%B9/kmijeangnajdcaomdfjohhbmnbhnhjjd/related
 
 # 简悦 (nice)
 
