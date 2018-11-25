@@ -41,3 +41,6 @@
 2. 29kstarts，20181019
 3. 一个非常实用的 JavaScript 代码片段集合，全部采用 ES6 编写，而且实用最简单的方法实现，尽量确保你可以在30秒或更短的时间内理解这些代码 
 
+# 常用前端库
+## awesome-f2e-libs
+1. https://github.com/sorrycc/awesome-f2e-libs
