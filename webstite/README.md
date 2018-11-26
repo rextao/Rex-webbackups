@@ -29,6 +29,29 @@
 
 1. https://www.bestcssbuttongenerator.com/#/18
 
+## 产品设计
+### mobbin
+1. https://mobbin.design/
+1. 发掘IOS最新的设计模式
+1， 网站收集了一百多个设计精美的应用，展示了 8000 多个高清应用截图
+
+## 图书汇总
+### 中文计算机图书精选（含下载地址）
+1. https://www.yuque.com/winforlife/vgzph9
+
+
+## 代码片段
+### codemyui
+1. https://codemyui.com/
+1. 提供button，menu，image，icon，text等分类的ui灵感和代码
+1. codepen提供众多效果，但此进行了分类阅览，不错哦（数量不多）
+
+
+## 数据汇总
+### js框架情况统计
+1. https://stateofjs.com/
+1. js前端，后端等框架使用情况统计（2w开发者数据）
+
 ## 其他
 
 ### 前端样式框架对比
