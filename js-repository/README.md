@@ -46,7 +46,21 @@
 1. https://github.com/chancejs/chancejs
 2. 4kstars，20181019
 
+## andrewplummer/Sugar
+1. https://github.com/andrewplummer/Sugar
+1. 4k stars
+1. 原生对象扩展工具库，提供3中调用方式Suger.sum();链式调用，new Suger().merger().average()；extend模式，Suger.extend()后，可以在原生对象直接调用Suger的函数
+1. 官网还得挂代理
+
 # 时间处理
+## moment
+1. https://github.com/moment/moment
+1. 39k stars
+
+## date-fns
+1. https://github.com/date-fns/date-fns
+1. 15k stars
+1. 对于这几库的比较，可以查看You-Dont-Need-Momentjs。里面做了个比较
 
 ## day.js
 
@@ -62,8 +76,14 @@
 
 
 # 数学函数库 
+## math.js
+1. https://github.com/josdejong/mathjs
+1. 7k Stars
+1. Math.js是一个用于JavaScript和Node.js的扩展数学库。
+1. 它具有灵活的表达式解析器，支持符号计算，带有大量内置函数和常量，并提供了一个集成的解决方案，可以处理不同的数据类型，如数字，大数，复数，分数，单位和
+   矩阵。
 
-1. TheoremJS  
+## TheoremJS
 2. 内置了大量实用的数学函数，涵盖了大部分数学领域，比如代数、数论、统计学，等等。 
 3. https://github.com/arguiot/TheoremJS
 
