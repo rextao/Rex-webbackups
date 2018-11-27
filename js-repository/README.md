@@ -52,12 +52,6 @@
 1. 原生对象扩展工具库，提供3中调用方式Suger.sum();链式调用，new Suger().merger().average()；extend模式，Suger.extend()后，可以在原生对象直接调用Suger的函数
 1. 官网还得挂代理
 
-## decimal.js
-### 处理浮点数等数字运算
-1. https://github.com/MikeMcl/decimal.js
-1. 2k stars，作者提供了几个数字处理库
-1. float处理的基本原理还是转为整数后再除以（看了下minus）算法
-
 # 时间处理
 ## moment
 1. https://github.com/moment/moment
@@ -145,3 +139,8 @@
 1. https://github.com/creationix/nvm
 1. windows
 1. 提供window解决办法
+
+# 敏感词过滤库
+## fastscan
+1. https://github.com/pyloque/fastscan
+1. 740 stars
