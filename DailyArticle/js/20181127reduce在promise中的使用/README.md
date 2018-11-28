@@ -5,7 +5,7 @@
 1. reduce是es5标准
 
 ## 什么是reducer
-1. 总是返回1个值，这个值可以是string，number，array，但总是一个值
+1. 总是返回1个值，这个值可以是string，number，array等任意类型
 
 1. ```javascript
     const nums = [1, 3, 6]
