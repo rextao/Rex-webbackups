@@ -124,6 +124,9 @@
 1. https://github.com/atlassian/react-beautiful-dnd
 2. 11kstars
 
+## 用于滚动，缩放和突出代码显示
+1. https://github.com/pomber/code-surfer
+1. 2k stars
 
 # 效果库
 ## 打字机效果
