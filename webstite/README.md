@@ -53,9 +53,10 @@
 1. js前端，后端等框架使用情况统计（2w开发者数据）
 
 ## 其他
-
+### 计算知识搜索引擎
+1. 可以解方程式
+1. https://www.wolframalpha.com
 ### 前端样式框架对比
-
 1. http://usablica.github.io/front-end-frameworks/compare.html
 
 ## happy网站
