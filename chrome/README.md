@@ -6,19 +6,23 @@
 2. 免费，速度还可以
 
 # 书签管理
-## Homely(nice)  
 
-### 将网页书签变成纵向排列 
+## Homely(nice)
+
+### 将网页书签变成纵向排列
 
 1. https://github.com/OllieTerrance/Homely
 2. 我的存储地址：https://github.com/rextao/myHomely/blob/master/README.md
-1. 主要缺点：书签需要导入导出，没有服务器共享书签；
+3. 主要缺点：书签需要导入导出，没有服务器共享书签；
 
 ## pinbox
+
 ### 极简主义风格的网络收藏夹
+
 1. https://chrome.google.com/webstore/detail/pinbox-%E7%BD%91%E7%BB%9C%E6%94%B6%E8%97%8F%E5%A4%B9/kmijeangnajdcaomdfjohhbmnbhnhjjd/related
 
 # 页面clipper
+
 ## 简悦 (nice)
 
 1. https://chrome.google.com/webstore/detail/simpread-reader-view/ijllcpnolfcooahcekpamkbidhejabll/related
@@ -73,16 +77,28 @@
 
 1. Puppeteer是js爬虫，https://github.com/GoogleChrome/puppeteer
 
+## WEB前端助手(FeHelper)
+
+1. https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad/related?hl=en-US
+
+2. 提供包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色等web开发
+
+
 
 # 视频下载
+
 ## One-Click Video Downloader
+
 1. https://chrome.google.com/webstore/detail/one-click-video-downloade/bhepgcoaibmmehlmckhlmbdgcemhidcg/related?hl=en-US
 
 ## Video Downloader for Chrome
+
 1. 自动检测网页视频
-1. https://chrome.google.com/webstore/detail/video-downloader-for-chro/dcfofgiombegngbaofkeebiipcdgpnga?utm_source=chrome-ntp-icon
-2. 一款自动检测网页视频，并且用来下载的工具，支持 flv, mp4, avi, asf, mpeg 等格式，以及一些视频网站，支持优酷、腾讯视频，但不支持 B 站，也不支持 YouTube 下载 
+2. https://chrome.google.com/webstore/detail/video-downloader-for-chro/dcfofgiombegngbaofkeebiipcdgpnga?utm_source=chrome-ntp-icon
+3. 一款自动检测网页视频，并且用来下载的工具，支持 flv, mp4, avi, asf, mpeg 等格式，以及一些视频网站，支持优酷、腾讯视频，但不支持 B 站，也不支持 YouTube 下载 
 
 # 图片下载
+
 ## Fatkun Batch Download Image
+
 1. https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en-US
