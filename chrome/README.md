@@ -84,18 +84,29 @@
 2. 提供包括JSON格式化、二维码生成与解码、信息编解码、代码压缩、美化、页面取色等web开发
 
 
+# 视频相关
+## 视频录制
+### Loom
+1. https://chrome.google.com/webstore/detail/loom-video-recorder-scree/liecbddmkiiihnedobmlmillhodjkdmb?hl=zh-CN
+1. 需要登录google账号，录制视频直接传到网上
+1. 录制的视频可以保存到 Loom 提供的免费空间，可以下载为本地视频，也可以生成链接分享给别人，功能非常完整。
 
-# 视频下载
+## 视频下载
 
-## One-Click Video Downloader
+### One-Click Video Downloader
 
 1. https://chrome.google.com/webstore/detail/one-click-video-downloade/bhepgcoaibmmehlmckhlmbdgcemhidcg/related?hl=en-US
 
-## Video Downloader for Chrome
+### Video Downloader for Chrome
 
 1. 自动检测网页视频
 2. https://chrome.google.com/webstore/detail/video-downloader-for-chro/dcfofgiombegngbaofkeebiipcdgpnga?utm_source=chrome-ntp-icon
 3. 一款自动检测网页视频，并且用来下载的工具，支持 flv, mp4, avi, asf, mpeg 等格式，以及一些视频网站，支持优酷、腾讯视频，但不支持 B 站，也不支持 YouTube 下载 
+
+## 视频加速
+### Video Speed Controller
+1. https://chrome.google.com/webstore/detail/video-speed-controller-wi/lmkmbendeeejlcdaicihgmnobjmodfjj/related?hl=en-US
+1. 可以在播放网页视频的时选择加速播放 、减速播放，支持0.5x，1.5x，2x，4x
 
 # 图片下载
 
