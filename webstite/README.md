@@ -43,12 +43,6 @@
 1. https://www.yuque.com/winforlife/vgzph9
 
 
-## 代码片段
-### codemyui
-1. https://codemyui.com/
-1. 提供button，menu，image，icon，text等分类的ui灵感和代码
-1. codepen提供众多效果，但此进行了分类阅览，不错哦（数量不多）
-
 
 ## 数据汇总
 ### js框架情况统计
