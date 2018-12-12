@@ -3,6 +3,7 @@
 1. 异步处理可以使用https://github.com/caolan/async
 1. 使用Array.prototype.reduce()是解决顺序promise的最推荐的解决办法
 1. reduce是es5标准
+1. 文章提供的reduce方法只是一种能。但基本不会有人使用的，用promise.all即可
 
 ## 什么是reducer
 1. 总是返回1个值，这个值可以是string，number，array等任意类型
