@@ -5,6 +5,12 @@
 1. reduce是es5标准
 1. 文章提供的reduce方法只是一种能。但基本不会有人使用的，用promise.all即可
 
+## 读后总结
+
+1. reduce不同于其他高级函数（map等），可以用于处理promise
+2. 学习使用reduce的使用
+3. 由于评论对此方法批评较多，而且reduce实现promise使用较为麻烦，未看完
+
 ## 什么是reducer
 1. 总是返回1个值，这个值可以是string，number，array等任意类型
 

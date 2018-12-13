@@ -1,12 +1,14 @@
 # 概述(介绍dinero库)
 
 1. https://frontstuff.io/how-to-handle-monetary-values-in-javascript
-
 2. 2018.4.13
-
 3. 每天都在使用货币，但没有操作货币值的公认编程方式
-
 4. 货币值经常使用，但没有一个像date或time等的object表示
+
+## 读后总结
+
+1. 介绍dinero这个库
+2. 利用小数转整数可以处理精度问题
 
 ## 用number数值表示货币的缺陷
 
