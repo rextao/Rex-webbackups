@@ -147,3 +147,34 @@
 ## fastscan
 1. https://github.com/pyloque/fastscan
 1. 740 stars
+
+
+
+
+
+# 音频(Audio )库
+
+## [amplitudejs](https://github.com/521dimensions/amplitudejs)
+
+1. 无依赖的音频处理html5库
+2. 2.9k star 4month(20181220)
+
+
+
+# 图表库
+
+## [billboard](https://github.com/naver/billboard.js)
+
+1. 基于D3 v4的图表库
+2. 3k stars 近期在维护
+3. 生成图表的数据结构较为简单，但样子略丑
+
+
+
+# 沙盒(sandbox)
+
+## [codesandbox-client](https://github.com/CompuIves/codesandbox-client)
+
+1. 在线的代码编辑器，可以用来直接写vue、react代码，不用配置环境
+2. 5k stars 近期在维护
+
