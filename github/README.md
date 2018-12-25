@@ -56,3 +56,13 @@
 
 1. https://github.com/dawnlabs/carbon
 2. 16k
+
+
+
+# github贡献可视化
+
+## 在一张图生成贡献
+
+1. https://github-contributions.now.sh/
+2. 可以生成多种效果
+3. 直接输入github 的username即可，如rextao
