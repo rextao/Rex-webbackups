@@ -113,3 +113,12 @@
 ## Fatkun Batch Download Image
 
 1. https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en-US
+
+
+
+# 便捷小工具
+
+## 框选链接多个打开
+
+1. Linkclump
+2. https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?utm_source=chrome-ntp-icon
