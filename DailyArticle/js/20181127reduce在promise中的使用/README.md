@@ -4,6 +4,7 @@
 1. 使用Array.prototype.reduce()是解决顺序promise的最推荐的解决办法
 1. reduce是es5标准
 1. 文章提供的reduce方法只是一种能。但基本不会有人使用的，用promise.all即可
+1. 已整合到es5/2-类型与值、语句中
 
 ## 读后总结
 
